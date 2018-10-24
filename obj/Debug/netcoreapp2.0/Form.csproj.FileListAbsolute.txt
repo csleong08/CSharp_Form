@@ -1,0 +1,11 @@
+/Users/csleong/Desktop/Coding Dojo/csharp/Form/bin/Debug/netcoreapp2.0/Form.deps.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Form/bin/Debug/netcoreapp2.0/Form.runtimeconfig.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Form/bin/Debug/netcoreapp2.0/Form.runtimeconfig.dev.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Form/bin/Debug/netcoreapp2.0/Form.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Form/bin/Debug/netcoreapp2.0/Form.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/Form/obj/Debug/netcoreapp2.0/Form.csprojResolveAssemblyReference.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Form/obj/Debug/netcoreapp2.0/Form.csproj.CoreCompileInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Form/obj/Debug/netcoreapp2.0/Form.AssemblyInfoInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Form/obj/Debug/netcoreapp2.0/Form.AssemblyInfo.cs
+/Users/csleong/Desktop/Coding Dojo/csharp/Form/obj/Debug/netcoreapp2.0/Form.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Form/obj/Debug/netcoreapp2.0/Form.pdb
